@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>72067CDE-AF22-4F9A-812D-12AFD1773404</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AlertView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>001820631439E8C304209A709EE94C4E4263C433</key>
+		<string>https://github.com/DurgeshLal/VarunTestCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AlertView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>001820631439E8C304209A709EE94C4E4263C433</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DurgeshLal/VarunTestCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>001820631439E8C304209A709EE94C4E4263C433</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>001820631439E8C304209A709EE94C4E4263C433</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VarunTestCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
